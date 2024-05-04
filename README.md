@@ -1,16 +1,15 @@
-### Hi there 👋
+# About Me
 
-<!--
-**robertleist/robertleist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Robert Leist
 
-Here are some ideas to get you started:
+### Education
+- Bachelor of Science in Biology and Computer Science
+- Master of Science in Computer Science (Expected)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+I am passionate about combining my background in biology and computer science to drive innovations in medical computer science, particularly in the fields of data science and artificial intelligence. My goal is to leverage AI and ML methods to enhance patient care and improve outcomes in healthcare.
+
+### Projects
+Feel free to check out my GitHub projects for examples of my work and contributions to the field.
+
+
